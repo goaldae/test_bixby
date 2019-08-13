@@ -1,0 +1,5 @@
+train (t-on1mcpvuprbxw0auwhe41lsc5) {
+  utterance ("[g:TestRes] (3만 5천원)[v:money.Price]")
+  plan (Y2BikCrISaxML8ovzUvRS61IzC3ISdULSS0uCUotZuAvyyzTy83PS63UCyjKTE5lAAEmIGZkYAAA)
+  last-modified (1565667947851)
+}

@@ -1,0 +1,9 @@
+endpoints {
+  action-endpoints {
+    action-endpoint (testCost) {
+      accepted-inputs (cost)
+      local-endpoint (TestCost.js)
+    }
+  }
+}
+

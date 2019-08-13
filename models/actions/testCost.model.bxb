@@ -1,0 +1,11 @@
+action (testCost) {
+  type (Search)
+  description (Test)
+  collect {
+    input (cost) {
+      type (Cost)
+      min (Required) max (One)
+    }
+  }
+  output (TestRes)
+}
